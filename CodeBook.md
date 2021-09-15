@@ -1,4 +1,4 @@
- This file includes information about variables in "average_of_each_variable.csv" file as the output of run_analysis.R.
+ This file includes information about variables in "average_of_each_variable.txt" file as the output of run_analysis.R.
 
 [1] "Label": Activity label for each window of data
 
