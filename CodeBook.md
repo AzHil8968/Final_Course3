@@ -1,11 +1,17 @@
  This file includes information about variables in "average_of_each_variable.csv" file as the output of run_analysis.R.
 
 [1] "Label": Activity label for each window of data
+
 -WALKING
+
 -WALKING_UPSTAIRS
+
 -WALKING_DOWNSTAIRS
+
 -SITTING
+
 -STANDING
+
 -LAYING    
                   
 [2] "Subject" :
