@@ -11,6 +11,6 @@ The run_analysis.R code :
 
 -From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-The output of run_analysis.R is saved as .csv file called "average_of_each_variable".
+The output of run_analysis.R is saved as .txt (and .csv) file called "average_of_each_variable".
 
  CodeBook.md is a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data.
